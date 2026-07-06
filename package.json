@@ -1,0 +1,14 @@
+{
+  "name": "proxy-server",
+  "version": "1.0.0",
+  "description": "Node.js proxy API server",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "uuid": "^9.0.0"
+  }
+}
